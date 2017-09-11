@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Introductory Python and Software carpentry"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: david.hudson@crick.ac.uk
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+repository: psipred/2017-10-12-crick_institute
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -44,7 +44,7 @@ dc_pre_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop
 dc_post_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id="
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am)
-start_time: 0
+start_time: 570
 
 # Specify that things in the episodes collection should be output.
 collections:
